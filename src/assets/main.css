@@ -1,0 +1,80 @@
+@import './base.css';
+
+#app {
+  width: 100%;
+  margin: 0 auto;
+  padding: 2rem;
+
+  font-weight: normal;
+}
+
+a,
+.green {
+  text-decoration: none;
+  color: hsla(160, 100%, 37%, 1);
+  transition: 0.4s;
+}
+
+.logo{
+  text-align: center;
+}
+
+h1 {
+  font-weight: 500;
+  font-size: 2.6rem;
+  position: relative;
+  top: -10px;
+}
+
+th {
+  font-weight:900;
+  color: black;
+}
+
+.mt20{
+  margin-top: 20px;
+}
+
+.mb50{
+  margin-bottom: 50px;
+}
+
+@media (hover: hover) {
+  a:hover {
+    background-color: hsla(160, 100%, 37%, 0.2);
+  }
+}
+
+@media (min-width: 1024px) {
+  body {
+    place-items: center;
+  }
+
+  .login {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 0 2rem;
+    margin-top: 15%;
+  }
+
+  .list {
+    display: grid;
+    padding: 0 2rem;
+  }
+
+  .logo {
+    text-align: right;
+  }
+
+  .form {
+    margin: 0px 150px
+  }
+
+  .w60{
+    width: 60%;
+  }
+
+  .mr50{
+    margin-right: 50px;
+  }
+}

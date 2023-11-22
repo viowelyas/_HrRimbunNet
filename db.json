@@ -1,0 +1,164 @@
+{
+  "users": [
+    {
+      "id": "user",
+      "password": "passworduser"
+    },
+    {
+      "id": "vio",
+      "password": "vio"
+    }
+  ],
+  "resources": [
+    {
+      "id": 1,
+      "typeOfResource": 1,
+      "name": "Desk 101",
+      "description": "Standard office desk",
+      "isActive": true,
+      "location": "Floor 1, Building A",
+      "costOfItem": 200,
+      "lastStatusChecked": "2023-11-22"
+    },
+    {
+      "id": 2,
+      "typeOfResource": 2,
+      "name": "Meeting Room 1",
+      "description": "Small meeting room",
+      "isActive": true,
+      "location": "Floor 2, Building B",
+      "costOfItem": 500,
+      "lastStatusChecked": "2023-11-22"
+    },
+    {
+      "id": 3,
+      "typeOfResource": 3,
+      "name": "Monitor 27\"",
+      "description": "High-resolution computer monitor",
+      "isActive": true,
+      "location": "Employee's Desk",
+      "costOfItem": 300,
+      "lastStatusChecked": "2023-11-22"
+    },
+    {
+      "id": 4,
+      "typeOfResource": 1,
+      "name": "Desk 102",
+      "description": "Adjustable standing desk",
+      "isActive": false,
+      "location": "Floor 3, Building A",
+      "costOfItem": 250,
+      "lastStatusChecked": "2023-11-22"
+    },
+    {
+      "id": 5,
+      "typeOfResource": 2,
+      "name": "Conference Room A",
+      "description": "Large conference room with multimedia facilities",
+      "isActive": true,
+      "location": "Floor 1, Building C",
+      "costOfItem": 800,
+      "lastStatusChecked": "2023-11-22"
+    },
+    {
+      "id": 6,
+      "typeOfResource": 3,
+      "name": "Monitor 24\"",
+      "description": "Standard office monitor",
+      "isActive": true,
+      "location": "Employee's Desk",
+      "costOfItem": 200,
+      "lastStatusChecked": "2023-11-22"
+    },
+    {
+      "id": 7,
+      "typeOfResource": 1,
+      "name": "Hot Desk 1",
+      "description": "Shared workspace",
+      "isActive": true,
+      "location": "Coworking Area",
+      "costOfItem": 150,
+      "lastStatusChecked": "2023-11-22"
+    },
+    {
+      "id": 8,
+      "typeOfResource": 2,
+      "name": "Training Room B",
+      "description": "Training room with projectors",
+      "isActive": false,
+      "location": "Floor 2, Building D",
+      "costOfItem": 700,
+      "lastStatusChecked": "2023-11-22"
+    },
+    {
+      "id": 9,
+      "typeOfResource": 3,
+      "name": "Monitor 32\"",
+      "description": "Large widescreen monitor",
+      "isActive": true,
+      "location": "Employee's Desk",
+      "costOfItem": 400,
+      "lastStatusChecked": "2023-11-22"
+    },
+    {
+      "id": 10,
+      "typeOfResource": 1,
+      "name": "Desk 103",
+      "description": "Corner desk with drawers",
+      "isActive": true,
+      "location": "Floor 4, Building A",
+      "costOfItem": 300,
+      "lastStatusChecked": "2023-11-22"
+    },
+    {
+      "id": 11,
+      "typeOfResource": 2,
+      "name": "Breakout Room X",
+      "description": "Casual meeting space",
+      "isActive": true,
+      "location": "Floor 3, Building B",
+      "costOfItem": 350,
+      "lastStatusChecked": "2023-11-22"
+    },
+    {
+      "id": 12,
+      "typeOfResource": 3,
+      "name": "Monitor 28\"",
+      "description": "Ultra-wide curved monitor",
+      "isActive": false,
+      "location": "Employee's Desk",
+      "costOfItem": 500,
+      "lastStatusChecked": "2023-11-22"
+    },
+    {
+      "id": 13,
+      "typeOfResource": 1,
+      "name": "Hot Desk 2",
+      "description": "Shared workspace",
+      "isActive": true,
+      "location": "Coworking Area",
+      "costOfItem": 120,
+      "lastStatusChecked": "2023-11-22"
+    },
+    {
+      "id": 14,
+      "typeOfResource": 2,
+      "name": "Conference Room B",
+      "description": "Medium-sized conference room",
+      "isActive": true,
+      "location": "Floor 1, Building C",
+      "costOfItem": 600,
+      "lastStatusChecked": "2023-11-22"
+    },
+    {
+      "id": 15,
+      "typeOfResource": 3,
+      "name": "Monitor 22\"",
+      "description": "Basic office monitor",
+      "isActive": true,
+      "location": "Employee's Desk",
+      "costOfItem": 150,
+      "lastStatusChecked": "2023-11-22"
+    }
+  ]
+}
